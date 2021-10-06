@@ -2,7 +2,7 @@
 
 <!--
 **tariq3455/tariq3455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+--->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Cloud Computing(AWS)&DevOps
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=durmusayuksek&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=durmusayuksek&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durmusayuksek&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p> 
+<img src="https://github-readme-stats.vercel.app/api?username=tariq3455&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tariq3455&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariq3455&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p> 
 
--->
+
