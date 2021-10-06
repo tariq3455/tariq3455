@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tar%C4%B1k-u-944037214/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:trkysl55@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tariq3455" alt="tariq3455" /> </p>
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://tariqu.medium.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tariqu" alt="tariqu" /> </p>
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@tariqu)
+
 
 ## 💻 Languages
 
