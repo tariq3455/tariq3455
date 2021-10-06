@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My job!
 
 ## :man::woman: Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tar%C4%B1k-u-944037214/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:trkysl55@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tariq3455" alt="tariq3455" /> </p>
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tariqu) 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tar%C4%B1k-u-944037214/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tariqu)
+
 
 
 ## 💻 Languages
