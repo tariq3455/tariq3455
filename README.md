@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="linux" height="50"/> </a> 
-<a href="#" target="_blank"> <img alt="Amazon" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="50"/> </a>
+<a href="#" target="_blank"> <img alt="Amazon" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" height="50"/> </a>
 <a href="#" target="_blank"> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" height="50"/> </a>
 <a href="#" target="_blank"> <img alt="Maven" src="https://www.kindpng.com/picc/m/745-7454540_apache-maven-hd-png-download.png" height="50"/> </a>
 <a href="#" target="_blank"> <img alt="Terraform" src="https://boxboat.com/2020/02/04/writing-a-custom-terraform-provider/featured.png" height="50"/> </a>
