@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="MySQL" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/390/229/png-clipart-logo-html5-brand-design-text-logo.png" alt="HTML" height="70"/> </a>
 <a href="#" target="_blank"> <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" height="50" /> </a>
-## ⚙ Tools
 
+## ⚙ Tools
 
 <a href="#" target="_blank"> <img src="https://zappysys.com/blog/wp-content/uploads/2018/07/jira-logo.jpg" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="linux" height="50"/> </a> 
 <a href="#" target="_blank"> <img alt="Amazon" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="50"/> </a>
 <a href="#" target="_blank"> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" height="50"/> </a>
+<a href="#" target="_blank"> <img alt="Maven" src="https://commons.wikimedia.org/wiki/File:Apache_Maven_logo.svg" height="50"/> </a>
+<a href="#" target="_blank"> <img alt="Terraform" src="https://www.nicepng.com/ourpic/u2e6e6i1t4y3r5a9_hashicorp-terraform-logo/" height="50"/> </a>
 
 </p>
 <p align="left">
